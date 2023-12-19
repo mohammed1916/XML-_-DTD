@@ -1,4 +1,4 @@
-<!DOCTYPE university SYSTEM "University.dtd">
+<!DOCTYPE note SYSTEM "A:/Dev/XML/xml-tutorial/University.dtd">
 <university>
 	<department>
 		<dept_name name='23'> Comp. Sci. </dept_name>
